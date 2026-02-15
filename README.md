@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Satyam
 
-<!--
-**ImSatyamK/ImSatyamK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE student @ IIT PATNA  
+💻 Interested in Machine Learning & Web Development  
+🌱 Learning: Machine Learning  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python
+- JavaScript
+- HTML, CSS
+- Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/satyam-kumar-464206317
+- Email: satyamkrhere@gmail.com
